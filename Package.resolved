@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "facecorebasic-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/regulaforensics/FaceCoreBasic-Swift-Package",
+      "state" : {
+        "revision" : "7847cab1dafdcf97ad673dd8793e14125942a245",
+        "version" : "8.4.2746"
+      }
+    },
+    {
+      "identity" : "facesdk-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/regulaforensics/FaceSDK-Swift-Package",
+      "state" : {
+        "revision" : "365dc3f7ac6896703424251f14d3335d8305a14a",
+        "version" : "8.4.5326"
+      }
+    },
+    {
+      "identity" : "regulacommon-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/regulaforensics/RegulaCommon-Swift-Package.git",
+      "state" : {
+        "revision" : "fb35be8ba021a06046edaa67ee7831f99573dbb4",
+        "version" : "9.10.3054"
+      }
+    }
+  ],
+  "version" : 2
+}
